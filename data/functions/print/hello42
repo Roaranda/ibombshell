@@ -1,0 +1,4 @@
+function Hello42 {
+    $mystr = "Hello 42!!"
+    Write-Output $mystr
+}
