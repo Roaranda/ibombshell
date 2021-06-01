@@ -32,6 +32,7 @@ post/gprocess
 post/gservices
 post/getapps
 post/unquoted-service-path
+print/hello42
 phishing/getcredentials
 files/download-file
 lateral_movement/dcom-shellwindows
